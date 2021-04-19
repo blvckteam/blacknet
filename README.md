@@ -1,6 +1,6 @@
 # BlackNet - Полноценная onion-поисковая-система в твоем терминале!
 <p align="center">
-  <img src="https://github.com/blvckteam/blacknet/blob/main/imgs/blacknet_logo.png?raw=true">
+  <img src="https://github.com/blvckteam/blacknet/blob/main/imgs/logo.png?raw=true">
 </p>
 
 ## О BlackNet
