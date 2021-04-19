@@ -4,7 +4,7 @@
 </p>
 
 ## О BlackNet
-BlackNet это простая утилита написаная на Python 3.9, которая позволяет искать сайты .onion по ключевым словам. BlackNet использует darksearch.io API, все права защищены.
+BlackNet это простая утилита написанная на Python 3.9, которая позволяет искать сайты .onion по ключевым словам. BlackNet использует darksearch.io API, все права защищены.
 ## Установка
 1) ``git clone https://github.com/blvckteam/blacknet``<br/>
 2) ``cd darkdump``<br/>
